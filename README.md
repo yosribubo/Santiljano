@@ -1,3 +1,3 @@
 # Vue-Course
 Vue Learning Course.
->*This repository is created by yosribubo at 2022-03-16*
+>*This repository is created by yosribubo@gmail.com at 2022-03-16*
